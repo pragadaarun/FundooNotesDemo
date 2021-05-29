@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register">Register</string>
+    <string name="new_to_application">New to Application?</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email</string>
+    <string name="password">Password</string>
+    <string name="show_password">Show Password</string>
+</resources>
